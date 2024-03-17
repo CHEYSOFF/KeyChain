@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="true">
+        <item>@font/urbanist_bold</item>
+        <item>@font/urbanist_extra_bold</item>
+        <item>@font/urbanist_regular</item>
+    </array>
+</resources>
